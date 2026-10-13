@@ -1,4 +1,4 @@
-### Hi there, I'm Edxx1 👋
+### Hi there, I'm EdPwn1 👋
 
 🥷 **Security Researcher · Web Application Pentester · Bug Bounty Hunter**
 
@@ -13,14 +13,15 @@
 - ☁️ **Cloud & API security** — AWS · GraphQL · REST
 - 🎓 **Security education** — complete pentest curricula in English & Somali
 
-## 📚 My Pentesting Libraries
+## 📚 My Libraries
 
 | Repo | What's inside |
 |---|---|
-| 🥷 [webapp-pentest-masterclass](https://github.com/mohamedyusfalii404-sudo/webapp-pentest-masterclass) | The complete course — methodology, tools, black-hat playbook, **4 full breach scenarios** |
-| 📐 [webapp-pentest-methodology](https://github.com/mohamedyusfalii404-sudo/webapp-pentest-methodology) | Professional engagement SOP — WSTG/PTES, 7 phases, test plans, templates |
-| 📚 [webapp-vuln-encyclopedia](https://github.com/mohamedyusfalii404-sudo/webapp-vuln-encyclopedia) | Every vulnerability class — find, exploit, payloads, tools, impact, fix |
-| 🧰 [webapp-pentest-toolkit](https://github.com/mohamedyusfalii404-sudo/webapp-pentest-toolkit) | Setup, tool arsenal, Burp mastery, cheat sheets, automation scripts |
+| 🇸🇴 [somali-cybersecurity-roadmap](https://github.com/EdPwn1/somali-cybersecurity-roadmap) | **Waddada Cybersecurity-ka** — the complete Somali-language cybersecurity roadmap for youth |
+| 🥷 [webapp-pentest-masterclass](https://github.com/EdPwn1/webapp-pentest-masterclass) | The complete course — methodology, tools, black-hat playbook, **4 full breach scenarios** |
+| 📐 [webapp-pentest-methodology](https://github.com/EdPwn1/webapp-pentest-methodology) | Professional engagement SOP — WSTG/PTES, 7 phases, test plans, templates |
+| 📚 [webapp-vuln-encyclopedia](https://github.com/EdPwn1/webapp-vuln-encyclopedia) | Every vulnerability class — find, exploit, payloads, tools, impact, fix |
+| 🧰 [webapp-pentest-toolkit](https://github.com/EdPwn1/webapp-pentest-toolkit) | Setup, tool arsenal, Burp mastery, cheat sheets, automation scripts |
 
 ## 🛠️ Arsenal
 
@@ -36,4 +37,4 @@ Open to **bug bounty programs**, collaborations, and security research.
 
 > *"Trust is a vulnerability. Every endpoint is guilty until proven innocent."*
 
-![Profile views](https://komarev.com/ghpvc/?username=mohamedyusfalii404-sudo&color=brightgreen&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=EdPwn1&color=brightgreen&style=flat-square)
